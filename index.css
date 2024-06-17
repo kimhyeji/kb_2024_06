@@ -121,7 +121,7 @@ html {
       width: 24px;
       height: 24px;
       display: inline-block;
-      background-image: url(/img/img_kabang_220615.png);
+      background-image: url(./img/img_kabang_220615.png);
   }
   
   /* 커스텀 */
@@ -551,7 +551,7 @@ html {
   
   .top_banner_box_6_wrap {
       height: 750px;
-      background: #fff url(/img/home_map.png) no-repeat -12% 50%;
+      background: #fff url(./img/home_map.png) no-repeat -12% 50%;
   }
   
   .top_banner_box_6 .img-box {
@@ -1003,7 +1003,7 @@ html {
   }
   
   .bottom_bar .box_3 .menu_box_2 .ico_sns {
-      background: url(/img/web/ico_sns.png);
+      background: url(./img/web/ico_sns.png);
   }
   
   .bottom_bar .box_3 .menu_box_2 .ico_sns.ico_sns_facebook {
